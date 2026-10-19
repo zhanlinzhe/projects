@@ -158,5 +158,3 @@ No deployment target is requested by the course, so CD stops after a successful 
 | Wu Haoyang | DevOps engineer | `Dockerfile`, `.github/workflows/`, `README.md`, `DEPLOYMENT.md` |
 
 See [DEPLOYMENT.md](DEPLOYMENT.md) for environments, secrets and branch protection.
-
-<!-- ci smoke -->

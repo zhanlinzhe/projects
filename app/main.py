@@ -10,7 +10,7 @@ from pathlib import Path
 import joblib
 from fastapi import FastAPI, HTTPException
 
-from app.schemas import PredictRequest, PredictionResponse
+from app.schemas import PredictionResponse, PredictRequest
 
 logger = logging.getLogger(__name__)
 
